@@ -1,0 +1,4 @@
+baseURL = "https://bikemix.github.io/"
+languageCode = "de-de"
+title = "bikemix"
+theme = "ananke"
